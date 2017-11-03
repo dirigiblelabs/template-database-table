@@ -7,7 +7,7 @@
 ## Overview
 
 Simple "Database Table"
-```json
+```javascript
 {
 	"name": "{{tableName}}",
 	"type": "TABLE",
