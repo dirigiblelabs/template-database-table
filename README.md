@@ -9,16 +9,16 @@
 Simple "Database Table"
 ```javascript
 {
-	'name': '{{tableName}}',
-	'type': 'TABLE',
-	'columns': [{
-		'name': 'ID',
-		'type': 'INTEGER',
-		'primaryKey': 'true'
+	"name": "{{tableName}}",
+	"type": "TABLE",
+	"columns": [{
+		"name": "ID",
+		"type": "INTEGER",
+		"primaryKey": "true"
 	}, {
-		'name': 'NAME',
-		'type': 'VARCHAR',
-		'length': '50'
+		"name": "NAME",
+		"type": "VARCHAR",
+		"length": "50"
 	}]
 }
 ```
